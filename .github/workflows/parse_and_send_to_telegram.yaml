@@ -1,4 +1,4 @@
-name: Selenium Chrome Setup
+name: Parse and send articles to channel
 
 on:
   schedule:
