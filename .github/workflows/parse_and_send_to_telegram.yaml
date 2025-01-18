@@ -46,12 +46,3 @@ jobs:
         with:
           commit_message: Autoupdate ids cache
           commit_options: '--no-verify --signoff'
-        run: |
-          # Проверка на наличие изменений в файле с ID
-          git config --global user.email "ramil2911912@gmail.com"
-          git config --global user.name "GitHub Actions"
-          
-          # Добавление и коммит изменений в файл sent_articles.txt
-          git add sent_articles.txt
-          git commit -m "Update sent article IDs"
-          git push
