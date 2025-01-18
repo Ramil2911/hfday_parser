@@ -32,8 +32,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 5. Запуск Selenium-скрипта
-      - name: Run Selenium script
+      # 5. Запуск парсера
+      - name: Run python script
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         run: python parse_and_send.py
