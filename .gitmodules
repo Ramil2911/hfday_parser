@@ -1,0 +1,3 @@
+[submodule "hfday"]
+	path = hfday
+	url = https://github.com/averkij/top_papers.git
