@@ -3,6 +3,7 @@ name: Parse and send articles to channel
 on:
   schedule:
     - cron: "0 8 * * *"
+  workflow_dispatch:
 
 jobs:
   parse-and-send-task:
