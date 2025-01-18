@@ -42,6 +42,10 @@ jobs:
 
       # 6. Проверить, добавить ID статей и коммитить изменения
       - name: Commit article IDs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Autoupdate ids cache
+          commit_options: '--no-verify --signoff'
         run: |
           # Проверка на наличие изменений в файле с ID
           git config --global user.email "ramil2911912@gmail.com"
