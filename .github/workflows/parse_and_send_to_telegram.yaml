@@ -12,27 +12,34 @@ jobs:
       # 1. Клонирование репозитория
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          submodules: true
 
-      # 2. Установка Python
+      # 2. Убедимся, что все субмодули обновлены
+      - name: Ensure submodules are updated
+        run: |
+          git submodule update --init --recursive
+
+      # 3. Установка Python
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.12"
 
-      # 3. Установка зависимостей
+      # 4. Установка зависимостей
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 4. Запуск Selenium-скрипта
+      # 5. Запуск Selenium-скрипта
       - name: Run Selenium script
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         run: python parse_and_send.py
 
 
-      # 5. Проверить, добавить ID статей и коммитить изменения
+      # 6. Проверить, добавить ID статей и коммитить изменения
       - name: Commit article IDs
         run: |
           # Проверка на наличие изменений в файле с ID
