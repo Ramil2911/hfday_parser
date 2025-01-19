@@ -50,4 +50,4 @@ if __name__ == "__main__":
     messages = [f"{article['data']['emoji']} <a href=\"{article['url']}\">{article['data']['ru']['title']}</a> \n\n{article['data']['ru']['desc']}\n\n{" ".join(article['data']["categories"])}\n\n" for article in data['papers'] if article['id'] in article_ids_to_send]
     asyncio.run(send_to_channel(messages))
 
-    write_sent_ids("sent_articles.txt", old_article_ids | article_ids_to_send)
+    write_sent_ids("sent_articles.txt", article_ids_to_send)
