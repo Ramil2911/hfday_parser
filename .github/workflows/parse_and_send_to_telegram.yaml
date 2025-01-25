@@ -10,37 +10,36 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Клонирование репозитория
+      # 1. Checkout repository with submodules
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           submodules: true
 
-      # 2. Убедимся, что все субмодули обновлены
-      - name: Ensure submodules are updated
+      # 2. Update submodules to the latest remote commits
+      - name: Update submodules to latest
         run: |
-          git submodule update --init --recursive
+          git submodule update --init --remote --recursive
 
-      # 3. Установка Python
+      # 3. Set up Python
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.12"
 
-      # 4. Установка зависимостей
+      # 4. Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 5. Запуск парсера
+      # 5. Run the script with Telegram token
       - name: Run python script
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         run: python parse_and_send.py
 
-
-      # 6. Проверить, добавить ID статей и коммитить изменения
+      # 6. Commit any changes (like article ID cache)
       - name: Commit article IDs
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
