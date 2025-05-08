@@ -915,3 +915,12 @@ https://huggingface.co/papers/2505.03368
 https://huggingface.co/papers/2505.02214
 https://huggingface.co/papers/2505.03005
 https://huggingface.co/papers/2505.03730
+https://huggingface.co/papers/2505.03418
+https://huggingface.co/papers/2505.04588
+https://huggingface.co/papers/2505.04364
+https://huggingface.co/papers/2505.04622
+https://huggingface.co/papers/2505.04512
+https://huggingface.co/papers/2505.00358
+https://huggingface.co/papers/2505.02393
+https://huggingface.co/papers/2505.03912
+https://huggingface.co/papers/2505.04528
