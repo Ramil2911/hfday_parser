@@ -924,3 +924,15 @@ https://huggingface.co/papers/2505.00358
 https://huggingface.co/papers/2505.02393
 https://huggingface.co/papers/2505.03912
 https://huggingface.co/papers/2505.04528
+https://huggingface.co/papers/2505.05467
+https://huggingface.co/papers/2505.02847
+https://huggingface.co/papers/2504.19314
+https://huggingface.co/papers/2505.05288
+https://huggingface.co/papers/2505.05469
+https://huggingface.co/papers/2505.04620
+https://huggingface.co/papers/2505.05474
+https://huggingface.co/papers/2505.05315
+https://huggingface.co/papers/2505.03981
+https://huggingface.co/papers/2505.05071
+https://huggingface.co/papers/2505.05470
+https://huggingface.co/papers/2505.05408
