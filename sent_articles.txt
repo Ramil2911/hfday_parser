@@ -962,3 +962,7 @@ https://huggingface.co/papers/2505.07793
 https://huggingface.co/papers/2505.06548
 https://huggingface.co/papers/2505.07062
 https://huggingface.co/papers/2505.03733
+https://huggingface.co/papers/2505.07215
+https://huggingface.co/papers/2505.07416
+https://huggingface.co/papers/2505.08665
+https://huggingface.co/papers/2505.07591
