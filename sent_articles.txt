@@ -990,3 +990,10 @@ https://huggingface.co/papers/2505.10562
 https://huggingface.co/papers/2505.07782
 https://huggingface.co/papers/2505.09990
 https://huggingface.co/papers/2505.10565
+https://huggingface.co/papers/2505.10468
+https://huggingface.co/papers/2505.06027
+https://huggingface.co/papers/2505.09601
+https://huggingface.co/papers/2505.07096
+https://huggingface.co/papers/2505.10167
+https://huggingface.co/papers/2505.10475
+https://huggingface.co/papers/2505.10566
