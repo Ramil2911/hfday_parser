@@ -997,3 +997,12 @@ https://huggingface.co/papers/2505.07096
 https://huggingface.co/papers/2505.10167
 https://huggingface.co/papers/2505.10475
 https://huggingface.co/papers/2505.10566
+https://huggingface.co/papers/2505.07675
+https://huggingface.co/papers/2505.11152
+https://huggingface.co/papers/2505.10962
+https://huggingface.co/papers/2505.11107
+https://huggingface.co/papers/2505.11011
+https://huggingface.co/papers/2505.11427
+https://huggingface.co/papers/2505.11140
+https://huggingface.co/papers/2505.09388
+https://huggingface.co/papers/2505.11409
