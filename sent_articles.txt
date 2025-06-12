@@ -1027,3 +1027,13 @@ https://huggingface.co/papers/2506.05167
 https://huggingface.co/papers/2506.04614
 https://huggingface.co/papers/2506.08887
 https://huggingface.co/papers/2506.09040
+https://huggingface.co/papers/2506.09003
+https://huggingface.co/papers/2506.08001
+https://huggingface.co/papers/2506.09790
+https://huggingface.co/papers/2506.08889
+https://huggingface.co/papers/2506.09984
+https://huggingface.co/papers/2506.09937
+https://huggingface.co/papers/2506.09113
+https://huggingface.co/papers/2506.09007
+https://huggingface.co/papers/2506.09995
+https://huggingface.co/papers/2506.09350
