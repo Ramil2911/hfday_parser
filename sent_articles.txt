@@ -1050,3 +1050,6 @@ https://huggingface.co/papers/2506.15681
 https://huggingface.co/papers/2506.15154
 https://huggingface.co/papers/2506.14837
 https://huggingface.co/papers/2506.14965
+https://huggingface.co/papers/2506.15455
+https://huggingface.co/papers/2506.15564
+https://huggingface.co/papers/2506.09827
