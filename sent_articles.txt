@@ -1273,3 +1273,9 @@ https://huggingface.co/papers/2507.10065
 https://huggingface.co/papers/2507.10541
 https://huggingface.co/papers/2507.10524
 https://huggingface.co/papers/2507.08924
+https://huggingface.co/papers/2507.09411
+https://huggingface.co/papers/2507.07104
+https://huggingface.co/papers/2507.09404
+https://huggingface.co/papers/2507.10787
+https://huggingface.co/papers/2507.07186
+https://huggingface.co/papers/2507.09075
