@@ -1300,3 +1300,7 @@ https://huggingface.co/papers/2507.13332
 https://huggingface.co/papers/2507.12990
 https://huggingface.co/papers/2507.13344
 https://huggingface.co/papers/2507.13334
+https://huggingface.co/papers/2507.13255
+https://huggingface.co/papers/2507.13264
+https://huggingface.co/papers/2507.11589
+https://huggingface.co/papers/2507.12142
