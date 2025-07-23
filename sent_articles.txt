@@ -1327,3 +1327,16 @@ https://huggingface.co/papers/2507.15629
 https://huggingface.co/papers/2507.15028
 https://huggingface.co/papers/2507.15856
 https://huggingface.co/papers/2507.14843
+https://huggingface.co/papers/2507.15974
+https://huggingface.co/papers/2507.16784
+https://huggingface.co/papers/2507.16812
+https://huggingface.co/papers/2507.16813
+https://huggingface.co/papers/2507.16746
+https://huggingface.co/papers/2507.16815
+https://huggingface.co/papers/2507.15024
+https://huggingface.co/papers/2507.16814
+https://huggingface.co/papers/2507.08422
+https://huggingface.co/papers/2507.15245
+https://huggingface.co/papers/2507.16632
+https://huggingface.co/papers/2507.15454
+https://huggingface.co/papers/2507.16795
