@@ -1340,3 +1340,10 @@ https://huggingface.co/papers/2507.15245
 https://huggingface.co/papers/2507.16632
 https://huggingface.co/papers/2507.15454
 https://huggingface.co/papers/2507.16795
+https://huggingface.co/papers/2507.17202
+https://huggingface.co/papers/2507.17512
+https://huggingface.co/papers/2507.17744
+https://huggingface.co/papers/2507.16331
+https://huggingface.co/papers/2507.11465
+https://huggingface.co/papers/2507.17745
+https://huggingface.co/papers/2507.16863
