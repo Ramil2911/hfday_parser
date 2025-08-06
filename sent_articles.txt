@@ -1432,3 +1432,14 @@ https://huggingface.co/papers/2508.01415
 https://huggingface.co/papers/2508.00890
 https://huggingface.co/papers/2508.01548
 https://huggingface.co/papers/2508.02150
+https://huggingface.co/papers/2508.03686
+https://huggingface.co/papers/2508.02193
+https://huggingface.co/papers/2508.03320
+https://huggingface.co/papers/2508.02079
+https://huggingface.co/papers/2508.02091
+https://huggingface.co/papers/2508.00477
+https://huggingface.co/papers/2508.02063
+https://huggingface.co/papers/2508.03050
+https://huggingface.co/papers/2508.03012
+https://huggingface.co/papers/2508.03694
+https://huggingface.co/papers/2508.01780
