@@ -1536,3 +1536,8 @@ https://huggingface.co/papers/2508.10711
 https://huggingface.co/papers/2508.10881
 https://huggingface.co/papers/2508.10576
 https://huggingface.co/papers/2508.09848
+https://huggingface.co/papers/2508.10875
+https://huggingface.co/papers/2508.10893
+https://huggingface.co/papers/2508.10482
+https://huggingface.co/papers/2508.10637
+https://huggingface.co/papers/2508.10898
