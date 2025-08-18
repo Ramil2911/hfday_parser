@@ -1541,3 +1541,11 @@ https://huggingface.co/papers/2508.10893
 https://huggingface.co/papers/2508.10482
 https://huggingface.co/papers/2508.10637
 https://huggingface.co/papers/2508.10898
+https://huggingface.co/papers/2508.11630
+https://huggingface.co/papers/2508.11116
+https://huggingface.co/papers/2508.11203
+https://huggingface.co/papers/2508.10461
+https://huggingface.co/papers/2508.11255
+https://huggingface.co/papers/2508.06429
+https://huggingface.co/papers/2508.11616
+https://huggingface.co/papers/2508.10868
