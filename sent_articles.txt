@@ -1549,3 +1549,16 @@ https://huggingface.co/papers/2508.11255
 https://huggingface.co/papers/2508.06429
 https://huggingface.co/papers/2508.11616
 https://huggingface.co/papers/2508.10868
+https://huggingface.co/papers/2508.13104
+https://huggingface.co/papers/2508.12811
+https://huggingface.co/papers/2508.09834
+https://huggingface.co/papers/2508.10419
+https://huggingface.co/papers/2508.13142
+https://huggingface.co/papers/2508.13009
+https://huggingface.co/papers/2508.12945
+https://huggingface.co/papers/2508.12880
+https://huggingface.co/papers/2508.11737
+https://huggingface.co/papers/2508.13154
+https://huggingface.co/papers/2508.12782
+https://huggingface.co/papers/2508.12466
+https://huggingface.co/papers/2508.11598
