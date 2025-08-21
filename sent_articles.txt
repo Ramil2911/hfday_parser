@@ -1580,3 +1580,15 @@ https://huggingface.co/papers/2508.13632
 https://huggingface.co/papers/2508.12669
 https://huggingface.co/papers/2508.14041
 https://huggingface.co/papers/2508.12535
+https://huggingface.co/papers/2508.14460
+https://huggingface.co/papers/2508.14187
+https://huggingface.co/papers/2508.14111
+https://huggingface.co/papers/2508.14879
+https://huggingface.co/papers/2508.14811
+https://huggingface.co/papers/2508.14160
+https://huggingface.co/papers/2508.13745
+https://huggingface.co/papers/2508.14896
+https://huggingface.co/papers/2508.11987
+https://huggingface.co/papers/2508.14444
+https://huggingface.co/papers/2508.13491
+https://huggingface.co/papers/2508.10137
