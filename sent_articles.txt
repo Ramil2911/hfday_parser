@@ -1605,3 +1605,6 @@ https://huggingface.co/papers/2508.15752
 https://huggingface.co/papers/2508.15260
 https://huggingface.co/papers/2508.15767
 https://huggingface.co/papers/2508.15760
+https://huggingface.co/papers/2508.15418
+https://huggingface.co/papers/2508.15772
+https://huggingface.co/papers/2508.09998
