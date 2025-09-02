@@ -1677,3 +1677,7 @@ https://huggingface.co/papers/2508.14197
 https://huggingface.co/papers/2508.21290
 https://huggingface.co/papers/2508.20470
 https://huggingface.co/papers/2508.18106
+https://huggingface.co/papers/2508.20931
+https://huggingface.co/papers/2508.19060
+https://huggingface.co/papers/2508.17378
+https://huggingface.co/papers/2508.21104
