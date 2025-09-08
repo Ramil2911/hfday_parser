@@ -1699,3 +1699,11 @@ https://huggingface.co/papers/2508.18733
 https://huggingface.co/papers/2509.03867
 https://huggingface.co/papers/2508.20478
 https://huggingface.co/papers/2509.03059
+https://huggingface.co/papers/2509.05296
+https://huggingface.co/papers/2509.05263
+https://huggingface.co/papers/2509.04504
+https://huggingface.co/papers/2509.04013
+https://huggingface.co/papers/2509.03800
+https://huggingface.co/papers/2509.04664
+https://huggingface.co/papers/2509.04744
+https://huggingface.co/papers/2509.03680
