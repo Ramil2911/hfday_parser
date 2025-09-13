@@ -1761,3 +1761,13 @@ https://huggingface.co/papers/2509.09286
 https://huggingface.co/papers/2509.09118
 https://huggingface.co/papers/2509.09674
 https://huggingface.co/papers/2509.09174
+https://huggingface.co/papers/2509.06806
+https://huggingface.co/papers/2509.06266
+https://huggingface.co/papers/2509.07225
+https://huggingface.co/papers/2509.05739
+https://huggingface.co/papers/2509.09254
+https://huggingface.co/papers/2509.08031
+https://huggingface.co/papers/2509.06888
+https://huggingface.co/papers/2509.09114
+https://huggingface.co/papers/2509.09313
+https://huggingface.co/papers/2509.09594
