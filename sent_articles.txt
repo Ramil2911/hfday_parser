@@ -1811,3 +1811,11 @@ https://huggingface.co/papers/2509.13317
 https://huggingface.co/papers/2509.13312
 https://huggingface.co/papers/2509.13310
 https://huggingface.co/papers/2509.12815
+https://huggingface.co/papers/2509.13755
+https://huggingface.co/papers/2509.14008
+https://huggingface.co/papers/2509.14142
+https://huggingface.co/papers/2509.14232
+https://huggingface.co/papers/2509.14055
+https://huggingface.co/papers/2509.14033
+https://huggingface.co/papers/2509.13450
+https://huggingface.co/papers/2509.13761
