@@ -1832,3 +1832,10 @@ https://huggingface.co/papers/2509.14760
 https://huggingface.co/papers/2509.15221
 https://huggingface.co/papers/2509.06482
 https://huggingface.co/papers/2509.15178
+https://huggingface.co/papers/2509.10402
+https://huggingface.co/papers/2509.09307
+https://huggingface.co/papers/2509.06216
+https://huggingface.co/papers/2509.15020
+https://huggingface.co/papers/2509.14233
+https://huggingface.co/papers/2509.10397
+https://huggingface.co/papers/2509.13399
