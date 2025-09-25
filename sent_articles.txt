@@ -1867,3 +1867,13 @@ https://huggingface.co/papers/2509.19087
 https://huggingface.co/papers/2509.19300
 https://huggingface.co/papers/2509.18849
 https://huggingface.co/papers/2509.19296
+https://huggingface.co/papers/2509.14745
+https://huggingface.co/papers/2509.19244
+https://huggingface.co/papers/2509.16990
+https://huggingface.co/papers/2509.20360
+https://huggingface.co/papers/2509.19580
+https://huggingface.co/papers/2509.19760
+https://huggingface.co/papers/2509.20328
+https://huggingface.co/papers/2509.20354
+https://huggingface.co/papers/2509.20317
+https://huggingface.co/papers/2509.20358
