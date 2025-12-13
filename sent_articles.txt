@@ -1986,3 +1986,13 @@ https://huggingface.co/papers/2512.10938
 https://huggingface.co/papers/2512.10359
 https://huggingface.co/papers/2512.10534
 https://huggingface.co/papers/2512.10756
+https://huggingface.co/papers/2512.04537
+https://huggingface.co/papers/2512.09270
+https://huggingface.co/papers/2512.05439
+https://huggingface.co/papers/2512.10959
+https://huggingface.co/papers/2512.08511
+https://huggingface.co/papers/2512.06424
+https://huggingface.co/papers/2512.10430
+https://huggingface.co/papers/2512.09924
+https://huggingface.co/papers/2512.10894
+https://huggingface.co/papers/2512.10955
