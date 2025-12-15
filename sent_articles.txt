@@ -1996,3 +1996,14 @@ https://huggingface.co/papers/2512.10430
 https://huggingface.co/papers/2512.09924
 https://huggingface.co/papers/2512.10894
 https://huggingface.co/papers/2512.10955
+https://huggingface.co/papers/2512.11464
+https://huggingface.co/papers/2512.11393
+https://huggingface.co/papers/2512.11799
+https://huggingface.co/papers/2512.06951
+https://huggingface.co/papers/2512.11558
+https://huggingface.co/papers/2512.06818
+https://huggingface.co/papers/2512.10411
+https://huggingface.co/papers/2512.08269
+https://huggingface.co/papers/2512.11749
+https://huggingface.co/papers/2512.11253
+https://huggingface.co/papers/2512.11792
