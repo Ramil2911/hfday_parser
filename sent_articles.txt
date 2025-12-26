@@ -2063,3 +2063,9 @@ https://huggingface.co/papers/2512.21338
 https://huggingface.co/papers/2512.20848
 https://huggingface.co/papers/2512.21252
 https://huggingface.co/papers/2512.21010
+https://huggingface.co/papers/2512.19680
+https://huggingface.co/papers/2512.13043
+https://huggingface.co/papers/2512.19949
+https://huggingface.co/papers/2512.21218
+https://huggingface.co/papers/2512.19995
+https://huggingface.co/papers/2512.15716
