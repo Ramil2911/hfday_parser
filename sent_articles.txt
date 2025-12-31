@@ -2101,3 +2101,6 @@ https://huggingface.co/papers/2512.22615
 https://huggingface.co/papers/2512.21720
 https://huggingface.co/papers/2512.23646
 https://huggingface.co/papers/2512.23676
+https://huggingface.co/papers/2512.22469
+https://huggingface.co/papers/2512.23675
+https://huggingface.co/papers/2512.22525
