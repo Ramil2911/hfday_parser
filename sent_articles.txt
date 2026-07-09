@@ -3093,3 +3093,10 @@ https://huggingface.co/papers/2607.00052
 https://huggingface.co/papers/2607.01804
 https://huggingface.co/papers/2607.02471
 https://huggingface.co/papers/2606.31227
+https://huggingface.co/papers/2607.04434
+https://huggingface.co/papers/2607.07708
+https://huggingface.co/papers/2607.04939
+https://huggingface.co/papers/2607.07675
+https://huggingface.co/papers/2607.07534
+https://huggingface.co/papers/2607.07608
+https://huggingface.co/papers/2607.06838
