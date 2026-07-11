@@ -3119,3 +3119,7 @@ https://huggingface.co/papers/2607.08404
 https://huggingface.co/papers/2607.07740
 https://huggingface.co/papers/2607.08093
 https://huggingface.co/papers/2607.08770
+https://huggingface.co/papers/2607.08688
+https://huggingface.co/papers/2607.07816
+https://huggingface.co/papers/2607.04690
+https://huggingface.co/papers/2607.08716
