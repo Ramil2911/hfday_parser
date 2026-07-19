@@ -41,6 +41,7 @@ jobs:
 
       # 6. Commit any changes (like article ID cache)
       - name: Commit article IDs
+        if: always()
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Autoupdate ids cache

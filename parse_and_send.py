@@ -1,7 +1,10 @@
 import json
 import asyncio
 from aiogram import Bot
+from aiogram.exceptions import TelegramRetryAfter
 import os
+
+SEND_INTERVAL_SECONDS = 1.5
 
 # Чтение уже отправленных ID
 def read_sent_ids(file_path):
@@ -16,6 +19,21 @@ def write_sent_ids(file_path, sent_ids):
         for article_id in sent_ids:
             file.write(article_id + "\n")
 
+def get_unsent_messages(data, sent_ids):
+    messages = []
+    seen_ids = set(sent_ids)
+
+    for article in data["papers"]:
+        article_id = article["id"]
+        if article_id in seen_ids:
+            continue
+
+        seen_ids.add(article_id)
+        message = f"{article['data']['emoji']} <a href=\"{article['url']}\">{article['data']['ru']['title']}</a> \n\n{article['data']['ru']['desc']}\n\n{" ".join(article['data']["categories"])}\n\n"
+        messages.append((article_id, message))
+
+    return messages
+
 def load_data():
     # Открытие файла и чтение содержимого
     file_path = "hfday/hf_papers.json"
@@ -26,13 +44,24 @@ def load_data():
 
     return json.loads(text)
 
-async def send_to_channel(messages):
+async def send_to_channel(messages, sent_ids_path="sent_articles.txt"):
     # Создание экземпляра бота
     bot = Bot(token=os.getenv("TELEGRAM_BOT_TOKEN"))
-    
+
     try:
-        for message in messages:
-            await bot.send_message(chat_id="@hf_daily_parser", text=message, parse_mode='HTML')
+        for index, (article_id, message) in enumerate(messages):
+            if index:
+                await asyncio.sleep(SEND_INTERVAL_SECONDS)
+
+            while True:
+                try:
+                    await bot.send_message(chat_id="@hf_daily_parser", text=message, parse_mode='HTML')
+                    break
+                except TelegramRetryAfter as error:
+                    await asyncio.sleep(error.retry_after)
+
+            # Persist each successful send so a later failure cannot resend it.
+            write_sent_ids(sent_ids_path, [article_id])
     finally:
         # Закрытие соединения с ботом
         await bot.session.close()
@@ -45,9 +74,5 @@ if __name__ == "__main__":
     data = load_data()
 
     old_article_ids = read_sent_ids("sent_articles.txt")
-    article_ids_to_send = set(article['id'] for article in data['papers'] if article['id'] not in old_article_ids)
-
-    messages = [f"{article['data']['emoji']} <a href=\"{article['url']}\">{article['data']['ru']['title']}</a> \n\n{article['data']['ru']['desc']}\n\n{" ".join(article['data']["categories"])}\n\n" for article in data['papers'] if article['id'] in article_ids_to_send]
+    messages = get_unsent_messages(data, old_article_ids)
     asyncio.run(send_to_channel(messages))
-
-    write_sent_ids("sent_articles.txt", article_ids_to_send)
