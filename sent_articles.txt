@@ -5027,3 +5027,5 @@ https://huggingface.co/papers/2610.09861
 https://huggingface.co/papers/2610.30090
 https://huggingface.co/papers/2610.28027
 https://huggingface.co/papers/2610.28827
+https://huggingface.co/papers/2610.30926
+https://huggingface.co/papers/2610.30181
