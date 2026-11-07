@@ -5295,3 +5295,15 @@ https://huggingface.co/papers/2611.08369
 https://huggingface.co/papers/2610.40119
 https://huggingface.co/papers/2611.02075
 https://huggingface.co/papers/2610.34074
+https://huggingface.co/papers/2611.06976
+https://huggingface.co/papers/2611.08237
+https://huggingface.co/papers/2611.08483
+https://huggingface.co/papers/2611.08376
+https://huggingface.co/papers/2611.04386
+https://huggingface.co/papers/2611.07298
+https://huggingface.co/papers/2611.07613
+https://huggingface.co/papers/2610.37739
+https://huggingface.co/papers/2609.37820
+https://huggingface.co/papers/2611.06500
+https://huggingface.co/papers/2611.06498
+https://huggingface.co/papers/2610.41789
