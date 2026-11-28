@@ -5766,3 +5766,8 @@ https://huggingface.co/papers/2611.32993
 https://huggingface.co/papers/2611.31516
 https://huggingface.co/papers/2611.31155
 https://huggingface.co/papers/2611.31491
+https://huggingface.co/papers/2611.30494
+https://huggingface.co/papers/2611.33885
+https://huggingface.co/papers/2611.30025
+https://huggingface.co/papers/2611.30723
+https://huggingface.co/papers/2611.27112
